@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "d29c8df2e629432c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ccf5fed34135955",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Semester 3/Individueel/Stokers/Use Cases/UC-01 Registreren.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b06ab556dbbc6902",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b93aadfa51bbd08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ef93245ffb049b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6333d2c7966658de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bf065f4a8decf748",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1cc715e886953a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48c1ed328bab7587",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Semester 3/Individueel/Stokers/Use Cases/UC-01 Registreren.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f08d829651689153",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e7d186702ff7f1b0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "6ccf5fed34135955",
+  "lastOpenFiles": [
+    "Semester 3/Individueel/Stokers/Use Cases/UC-01 Registreren.md",
+    "Semester 3/Individueel/Stokers/Analyse Document/Plan Van Aanpak.md",
+    "Semester 3/Individueel/Stokers/Analyse Document/Requirements.md",
+    "Semester 3/Individueel/Stokers/Analyse Document/ERD.md",
+    "Semester 3/Individueel/Stokers/Analyse Document/Class Diagram.md"
+  ]
+}

@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6ccf5fed34135955",
+        "id": "8398f9cbc518d930",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Semester 3/Individueel/Stokers/Use Cases/UC-01 Registreren.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 3/Individueel/Stokers/Use Cases/UC-01 Registreren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,18 +92,23 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6ccf5fed34135955",
+  "active": "8398f9cbc518d930",
   "lastOpenFiles": [
-    "Semester 3/Individueel/Stokers/Use Cases/UC-01 Registreren.md",
+    "Semester 3/Individueel/Stokers/Feedback/3-31-2022.md",
     "Semester 3/Individueel/Stokers/Analyse Document/Plan Van Aanpak.md",
     "Semester 3/Individueel/Stokers/Analyse Document/Requirements.md",
     "Semester 3/Individueel/Stokers/Analyse Document/ERD.md",
-    "Semester 3/Individueel/Stokers/Analyse Document/Class Diagram.md"
+    "Semester 3/Individueel/Stokers/Extra/Afspraken en verwachtingen.md",
+    "Semester 3/Individueel/Stokers/Planning/Stokers KanbanBoard.md",
+    "Semester 3/Individueel/Stokers/Use Cases/UC-01 Registreren.md",
+    "Semester 3/Individueel/Stokers/Use Cases/UC-02 Inloggen.md",
+    "Semester 3/Individueel/Stokers/Analyse Document/Class Diagram.md",
+    "Semester 3/Individueel/Stokers/Leden/Bas.md"
   ]
 }

@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "cf2dbb4b60a46293",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d4a647c4822c945",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Individueel/Stokers/Research/Obsidian.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "537e852942932a44",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d42987bb6f9f51d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83b3c514a3eb1faa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "96bbe6fbec53d382",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d912e4772e19baf",
+    "type": "split",
+    "children": [
+      {
+        "id": "105eece8cbe46a7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45d445e1930d1705",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Individueel/Stokers/Research/Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1d4a647c4822c945",
+  "lastOpenFiles": [
+    "Individueel/Stokers/Research/Obsidian.md"
+  ]
+}

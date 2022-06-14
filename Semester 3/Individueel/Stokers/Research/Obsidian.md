@@ -41,3 +41,4 @@ Another minor con of obsidian is that it is hard to get into, It takes a while t
 >Yes, I personally think so. It has helped me tremendously with organisation and general use of documentation when it comes to software. I can see why it is not for everybody, but when used to its potential it is extremely usefull and definitely worth checking out.
  
 
+Fiets

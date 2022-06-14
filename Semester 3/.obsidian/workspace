@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1d4a647c4822c945",
+        "id": "81f823fc4210590b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Individueel/Stokers/Research/Obsidian.md",
-            "mode": "source",
-            "source": false
+            "file": "Individueel/Stokers/Images/Obsidian Download.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individueel/Stokers/Research/Obsidian.md",
+                "file": "Individueel/Stokers/Images/Obsidian Download.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +85,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1d4a647c4822c945",
+  "active": "81f823fc4210590b",
   "lastOpenFiles": [
+    "Individueel/Stokers/Images/Obsidian Download.png",
+    "Individueel/Stokers/Images/Obsidian Plugins.png",
+    "Individueel/Stokers/Images/Obsidian Graph view.png",
+    "Individueel/Stokers/Images/DockerRunning.png",
+    "Individueel/Learning Outcomes/4-CiCd.md",
+    "Individueel/Stokers/Images/Docker container.png",
+    "Individueel/Learning Outcomes/6-Requirements.md",
+    "Individueel/Learning Outcomes/7-Business process.md",
+    "Individueel/Learning Outcomes/8-Professional.md",
     "Individueel/Stokers/Research/Obsidian.md"
   ]
 }

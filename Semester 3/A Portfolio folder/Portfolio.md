@@ -12,14 +12,14 @@ Voor: Cv De Stokers en Fontys Semester 3
 5. [Research](#)
 
 ## [[Learning outcomes]]
-[[1]] User friendly / full-stack
-[[2]] tooling and methodology
-[[3]] Agile
-[[4]] CI/CD
-[[5]] cultural differences
-[[6]] requirements 
-[[7]] business process
-[[8]] professional manner
+[[1-FullStack]] User friendly / full-stack
+[[2-Tooling]] tooling and methodology
+[[3-Agile]] Agile
+[[4-CiCd]] CI/CD
+[[5-Cultural diffrences]] cultural differences
+[[6-Requirements]] requirements 
+[[7-Business process]] business process
+[[8-Professional]] professional manner
 
 ## Introduction
 >This project is a website for the carnaval's organisation "De Stokers".

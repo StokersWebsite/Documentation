@@ -8,7 +8,7 @@ You design a release process and implement a continuous integration and deployme
 I used github actions to create a CI/CD pipeline. So everyime I pushed something to github it would check the code and then deploy it on docker.
 
 ![[GithubActions.png]]
-![[Docker container.png]]
+![[DockerRunning.png]]
 ## Sonarcloud
 Also when I pushed my API to github it ran a sonarcloud static code analysis.
 ![[Sonarcloud github action.png]]

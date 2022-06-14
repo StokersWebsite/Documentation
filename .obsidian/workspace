@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8398f9cbc518d930",
+        "id": "d7062140979b90d1",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Semester 3/A Portfolio folder/Portfolio.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Semester 3/A Portfolio folder/Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,25 +95,38 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "d549ac1e3170f0ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Semester 3/A Portfolio folder/Portfolio.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "8398f9cbc518d930",
+  "active": "d7062140979b90d1",
   "lastOpenFiles": [
-    "Semester 3/Individueel/Stokers/Feedback/3-31-2022.md",
-    "Semester 3/Individueel/Stokers/Analyse Document/Plan Van Aanpak.md",
-    "Semester 3/Individueel/Stokers/Analyse Document/Requirements.md",
-    "Semester 3/Individueel/Stokers/Analyse Document/ERD.md",
-    "Semester 3/Individueel/Stokers/Extra/Afspraken en verwachtingen.md",
-    "Semester 3/Individueel/Stokers/Planning/Stokers KanbanBoard.md",
-    "Semester 3/Individueel/Stokers/Use Cases/UC-01 Registreren.md",
-    "Semester 3/Individueel/Stokers/Use Cases/UC-02 Inloggen.md",
-    "Semester 3/Individueel/Stokers/Analyse Document/Class Diagram.md",
-    "Semester 3/Individueel/Stokers/Leden/Bas.md"
+    "Semester 3/A Portfolio folder/Portfolio.md",
+    "Semester 3/Individueel/Learning Outcomes.md",
+    "Semester 3/Individueel/Stokers/Research/Obsidian.md",
+    "Semester 3/Individueel/Stokers/Research/Security.md",
+    "Semester 3/A Portfolio folder/What to do.md",
+    "Semester 3/Individueel/Stokers/Research/Framework.md",
+    "Semester 3/Individueel/Stokers/Images/Sonarcloud findings.png",
+    "Semester 3/Individueel/Stokers/Images/Sonarcloud Outcomes2.png",
+    "Semester 3/Individueel/Stokers/Use Cases/Use Cases.md",
+    "Semester 3/Individueel/Learning Outcomes/2.md"
   ]
 }

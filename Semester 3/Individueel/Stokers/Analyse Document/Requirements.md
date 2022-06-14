@@ -13,15 +13,15 @@ C = Constraint
 
 MUST HAVE
 
-- [ ] FR.01 Gebruiker kan zich aanmelden voor de Stokers 
+- [x] FR.01 Gebruiker kan zich aanmelden voor de Stokers 
 
 &nbsp; &nbsp; Q 1.1 Gebruiker kan al zijn informatie invullen 
 
-- [ ] FR.02 Gebruiker kan foto’s en video’s zien van de stokers 
+- [x] FR.02 Gebruiker kan foto’s en video’s zien van de stokers 
 
 &nbsp; &nbsp; Q 2.1 Administrator kan foto’s en video’s uploaden (of linken met het stokers instagram account) 
 
-- [ ] FR 03 Gebruiker kan alle activiteiten zien 
+- [x] FR 03 Gebruiker kan alle activiteiten zien 
 
 &nbsp; &nbsp; Q 3.1 gebruiker kan zich niet aanmelden voor de activiteiten 
 
@@ -29,7 +29,7 @@ MUST HAVE
 
 &nbsp; &nbsp; Q 3.2 Een activiteit kan een max aantal mensen hebben (als dit is behaald kun je je niet meer inschrijven 
 
-- [ ] FR 05 Gebruiker kan inloggen 
+- [x] FR 05 Gebruiker kan inloggen 
 
 &nbsp; &nbsp; Q 5.1 Verschil maken tussen Lid en Gebruiker 
 

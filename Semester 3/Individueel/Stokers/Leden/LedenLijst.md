@@ -1,5 +1,5 @@
 [[Bas]]
-[[bram]]
+[[Bram]]
 [[Dagmar]]
 [[Sebastiaan]]
 [[Manita]]

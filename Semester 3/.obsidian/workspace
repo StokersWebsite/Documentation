@@ -7,9 +7,11 @@
         "id": "81f823fc4210590b",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Individueel/Stokers/Images/Obsidian Download.png"
+            "file": "A Portfolio folder/Portfolio.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individueel/Stokers/Images/Obsidian Download.png",
+                "file": "A Portfolio folder/Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +89,15 @@
   },
   "active": "81f823fc4210590b",
   "lastOpenFiles": [
-    "Individueel/Stokers/Images/Obsidian Download.png",
-    "Individueel/Stokers/Images/Obsidian Plugins.png",
-    "Individueel/Stokers/Images/Obsidian Graph view.png",
-    "Individueel/Stokers/Images/DockerRunning.png",
-    "Individueel/Learning Outcomes/4-CiCd.md",
-    "Individueel/Stokers/Images/Docker container.png",
-    "Individueel/Learning Outcomes/6-Requirements.md",
+    "A Portfolio folder/Portfolio.md",
     "Individueel/Learning Outcomes/7-Business process.md",
+    "Individueel/Stokers/Images/Feedpulse.png",
     "Individueel/Learning Outcomes/8-Professional.md",
-    "Individueel/Stokers/Research/Obsidian.md"
+    "Individueel/Learning Outcomes/3-Agile.md",
+    "Individueel/Learning Outcomes/4-CiCd.md",
+    "Individueel/Learning Outcomes/5-Cultural diffrences.md",
+    "Individueel/Learning Outcomes/6-Requirements.md",
+    "Individueel/Stokers/Use Cases/UC-01 Registreren.md",
+    "Individueel/Stokers/Research/Agile.md"
   ]
 }

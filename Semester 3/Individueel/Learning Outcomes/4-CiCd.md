@@ -12,4 +12,3 @@ I used github actions to create a CI/CD pipeline. So everyime I pushed something
 ## Sonarcloud
 Also when I pushed my API to github it ran a sonarcloud static code analysis.
 ![[Sonarcloud github action.png]]
-![[Sonarcloud results.png]]

@@ -20,7 +20,9 @@ Furthermore it combines multiple programs into one, again if used correctly. Als
 
 ## How to start using obsidian?
 >Obviously start by [downloading Obsidian](https://obsidian.md/) . When this is done there are two main ways to start. If you take over someones obsidian vault you can download and then open that folder. Otherwise you can create a vault, In this vault you can then add folders for all things you want your vault to be about, Then add the notes themselves. You can add as many notes as you want, this mean you can have either a main vault or vaults for specific topics. 
-![[Obsidian Download.png]]
+>
+>![Obsidian Download.png](https://user-images.githubusercontent.com/73878099/174443007-233245dc-e2e0-4563-adc3-815755bd2521.png)
+
 Me for example, I have a vault for "school" and in this vault I have folders for every semester. I also combined this vault with "De Stokers". This is our carnavals organisation, but also my school project. This way I can easily explain to the stokers members what the school project is about (a stokers website) and to my teachers what the stokers are about.
 
 ## (community) Plugins
@@ -28,8 +30,8 @@ Me for example, I have a vault for "school" and in this vault I have folders for
 >You can get plugins by going to settings in the bottom right and look for plugins.
 >There are two types of plugins, core plugins and community plugins. The core plugins are the ones that obsidian themselves support and are easy to use and handy plugins.
 >For community plugins you will need to turn off safe mode:
-![[Obsidian Plugins.png]]
-Then you can browse for community plugins. There are plugins for almost everything you can think of. Pretty much all plugins have a tutorial on how to use them on their download page. 
+>![Obsidian Plugins.png](https://user-images.githubusercontent.com/73878099/174442976-688558e2-7869-4ee4-a952-25994fae16f5.png)
+>Then you can browse for community plugins. There are plugins for almost everything you can think of. Pretty much all plugins have a tutorial on how to use them on their download page. 
 When you find the plugins you need obsidian can replace a lot of other programs. For example the kanban plugin. You can create a kanban board in obsidian. This is extremely handy since you can have backlinks (links to different notes) in the tasks on the kanban board to instantly show you what was done for this task. This takes over the tasks of programs like trello or taiga.
 And there are many more like this.
 

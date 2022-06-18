@@ -10,7 +10,7 @@
 
 ## What is obsidian?
 >Obsidian is a note management software, it is used to organize all notes in a different way than most. It encourages you to create lots of notes and link them with other notes. This way you create a web of notes in which you can easily find what you are looking for.
-![[Obsidian Graph view.png]] 
+![Graph View](https://user-images.githubusercontent.com/73878099/174443256-3878e549-0aac-4b4f-ad4b-9d73182e8f29.png)
 This way you can make a obsidian "vault" of for example school, which then has folders dedicated to different semesters. And each semester can have folders about all your projects which in turn contain everything you made for that project.
 
 ## Why use obsidian?
